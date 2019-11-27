@@ -5,3 +5,5 @@
 This repo is the assignment submission done for the Term 1&2 EDA analysis.
 
 This repo contains jupyter notebook, a PDF report and supporting images for the EDA done on the IPL data set
+
+[Youtube Link](https://youtu.be/xTHwsS8CT58)
